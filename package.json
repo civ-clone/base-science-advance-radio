@@ -13,7 +13,8 @@
   "files": [
     "Radio.js",
     "Radio.d.ts",
-    "Radio.js.map"
+    "Radio.js.map",
+    "Radio.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
